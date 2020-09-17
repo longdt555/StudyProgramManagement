@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Service", "Lib.Service\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Data", "Lib.Data\Lib.Data.csproj", "{2C96A994-6ACF-4612-AB81-99CD3CE75F9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantDBInitialize", "TenantDBInitialize\TenantDBInitialize.csproj", "{38479D64-D35B-4F10-9117-8A3643EE640C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{2C96A994-6ACF-4612-AB81-99CD3CE75F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C96A994-6ACF-4612-AB81-99CD3CE75F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C96A994-6ACF-4612-AB81-99CD3CE75F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38479D64-D35B-4F10-9117-8A3643EE640C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38479D64-D35B-4F10-9117-8A3643EE640C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38479D64-D35B-4F10-9117-8A3643EE640C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38479D64-D35B-4F10-9117-8A3643EE640C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{7D0E5DFF-EA28-4F27-8773-81807C6E14BE} = {40C73778-3639-47F4-B533-7B57ABF07373}
 		{4831987D-4829-4210-95E6-F80764F34E30} = {40C73778-3639-47F4-B533-7B57ABF07373}
 		{2C96A994-6ACF-4612-AB81-99CD3CE75F9C} = {40C73778-3639-47F4-B533-7B57ABF07373}
+		{38479D64-D35B-4F10-9117-8A3643EE640C} = {521E59F8-3B18-4478-BED7-F2255F03B10A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0286AEA4-DFF2-433C-A48B-8E6E050AD75C}
