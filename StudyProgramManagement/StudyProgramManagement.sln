@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyProgramManagement", "StudyProgramManagement\StudyProgramManagement.csproj", "{739C7C8D-0CA1-4844-8D21-4C563F85A622}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{521E59F8-3B18-4478-BED7-F2255F03B10A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libralies", "Libralies", "{40C73778-3639-47F4-B533-7B57ABF07373}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{51A9F0C9-99D9-423D-BC1B-12D096D331F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A3F756B3-30C0-43AD-8579-E3A6E513285B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739C7C8D-0CA1-4844-8D21-4C563F85A622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739C7C8D-0CA1-4844-8D21-4C563F85A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739C7C8D-0CA1-4844-8D21-4C563F85A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739C7C8D-0CA1-4844-8D21-4C563F85A622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{739C7C8D-0CA1-4844-8D21-4C563F85A622} = {521E59F8-3B18-4478-BED7-F2255F03B10A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0286AEA4-DFF2-433C-A48B-8E6E050AD75C}
+	EndGlobalSection
+EndGlobal
