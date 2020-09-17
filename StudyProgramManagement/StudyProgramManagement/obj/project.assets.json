@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\New folder\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
+      "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
       "projectName": "StudyProgramManagement",
-      "projectPath": "D:\\Project\\New folder\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
+      "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
       "packagesPath": "C:\\Users\\longd\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\New folder\\StudyProgramManagement\\StudyProgramManagement\\obj\\",
+      "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

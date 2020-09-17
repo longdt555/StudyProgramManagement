@@ -1,0 +1,9 @@
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\bin\Debug\netstandard2.0\Lib.Service.deps.json
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\bin\Debug\netstandard2.0\Lib.Service.dll
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\bin\Debug\netstandard2.0\Lib.Service.pdb
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\obj\Debug\netstandard2.0\Lib.Service.csprojAssemblyReference.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\obj\Debug\netstandard2.0\Lib.Service.csproj.CoreCompileInputs.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\obj\Debug\netstandard2.0\Lib.Service.AssemblyInfoInputs.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\obj\Debug\netstandard2.0\Lib.Service.AssemblyInfo.cs
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\obj\Debug\netstandard2.0\Lib.Service.dll
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Service\obj\Debug\netstandard2.0\Lib.Service.pdb
