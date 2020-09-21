@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vwFBNYj5iajZWL43qRMUZbyNYaf7MzgKqt33YiNmLsRP/SlMTVYiYrluymAeORfHIRMRFfAIGYQ89Xuxvn0BdQ==",
+  "dgSpecHash": "de9QaswktLz2+qEFzzs+aD1f9P36E+3RiATj7H6sc75YLtDVSaJSphbYZdN3OlahWEDQngO33Yhujr39CvmOPg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj",
+  "projectFilePath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\longd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\longd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Laptop88\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Laptop88\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
