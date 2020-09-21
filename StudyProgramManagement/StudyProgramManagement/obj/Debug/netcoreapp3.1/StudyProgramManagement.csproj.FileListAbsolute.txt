@@ -10,8 +10,6 @@ D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\StudyProgramManagement.Views.dll
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\StudyProgramManagement.Views.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.csprojAssemblyReference.cache
-D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.csproj.CoreCompileInputs.cache
-D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.MvcApplicationPartsAssemblyInfo.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.RazorAssemblyInfo.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.RazorAssemblyInfo.cs
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.AssemblyInfoInputs.cache
