@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6Y/z2WWLieo8T/xUBGqX+b4iD++d2CPgdKbiGPT3moLetFwiiIWfdF/vaFtwPU07RtiyM8f3FE+iLkgfR88e5g==",
+  "dgSpecHash": "wk3+BgTE+XRilFAUPfXGsuCc4/Fw5cGyhJoeFPU0r5cBvx66opL5ua41MNUJJZmN+kfelN/Gtz5gA3p57SjAnQ==",
   "success": true,
   "projectFilePath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\longd\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\longd\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\longd\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.8\\microsoft.extensions.fileproviders.physical.3.1.8.nupkg.sha512",
     "C:\\Users\\longd\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.8\\microsoft.extensions.filesystemglobbing.3.1.8.nupkg.sha512",

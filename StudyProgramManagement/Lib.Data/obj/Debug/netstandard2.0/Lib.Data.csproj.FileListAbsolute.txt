@@ -6,3 +6,4 @@ D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Data\obj\Debug\nets
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Data\obj\Debug\netstandard2.0\Lib.Data.dll
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Data\obj\Debug\netstandard2.0\Lib.Data.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Data\obj\Debug\netstandard2.0\Lib.Data.csprojAssemblyReference.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Data\obj\Debug\netstandard2.0\Lib.Data.csproj.CoreCompileInputs.cache
