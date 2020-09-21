@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cLvvMRX8yYtyKpbKBq1HO4MEMoF+ZIOX5To7FdQaScvHgVzBOQ9/TKqme7CPMeerOmn/QQDf12AZQ00dkIgsLw==",
+  "dgSpecHash": "cqEGLLPHhn2h+VO1xdbpPqsv7k28zbKPh4MAP9jK4hfPL0I2d4QgKevEMq2Z8vOUYgSNvrI0lCDbmaYbscRLHw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj",
+  "projectFilePath": "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\longd\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\longd\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

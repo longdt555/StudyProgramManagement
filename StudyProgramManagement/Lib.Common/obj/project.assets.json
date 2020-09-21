@@ -533,25 +533,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\longd\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\longd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
+      "projectUniqueName": "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
       "projectName": "Lib.Common",
-      "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
+      "projectPath": "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
       "packagesPath": "C:\\Users\\longd\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\obj\\",
+      "outputPath": "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\longd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -563,8 +558,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
-              "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj"
+            "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
+              "projectPath": "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj"
             }
           }
         }
@@ -595,7 +590,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

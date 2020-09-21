@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wk3+BgTE+XRilFAUPfXGsuCc4/Fw5cGyhJoeFPU0r5cBvx66opL5ua41MNUJJZmN+kfelN/Gtz5gA3p57SjAnQ==",
+  "dgSpecHash": "jHwSMKLB0wm1c0cDSn/a6FzoRQCDZV73d9aKNUJsrKjWBs/jIWQw9eadPVJX4dKBPyaGojNz0tBmg/wW9bEKiw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
+  "projectFilePath": "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\longd\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\longd\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",

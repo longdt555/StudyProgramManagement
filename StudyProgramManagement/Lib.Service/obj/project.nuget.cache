@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kE/wmK+OvNGlh1IhshaM/vmmSOwbmT6kBCoX8B9JzIesOLaYGO4R1h9Ab3/iHj98lvyTE9hxpUVALjb9GaWDAw==",
+  "dgSpecHash": "HTR7S+PmpcaFx7XywHnNrgbhhvjJ0r3qSL01Twk4ruabJApGJlTHTBArSmXnkJVEp+Cu89YcRL/zLpvniZIkLg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Service\\Lib.Service.csproj",
+  "projectFilePath": "D:\\CodingCorner\\StudyProgramManagement\\StudyProgramManagement\\Lib.Service\\Lib.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\longd\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\longd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

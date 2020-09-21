@@ -5,9 +5,8 @@ namespace Lib.Data.Context
 {
     public class SPMDbContext : DbContext
     {
-        public SPMDbContext(DbContextOptions<SPMDbContext> options) : base(options)
-        {
-        }
+        public SPMDbContext(DbContextOptions<SPMDbContext> options) : base(options) { }
+        // DbSet
         public DbSet<BookDTO> Book { get; set; }
         public DbSet<CourseDTO> Course { get; set; }
         public DbSet<CourseFacultyMappingDTO> Course_Faculty_Mapping { get; set; }
