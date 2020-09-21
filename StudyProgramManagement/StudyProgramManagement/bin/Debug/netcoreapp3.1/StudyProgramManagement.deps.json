@@ -26,7 +26,6 @@
         "dependencies": {
           "EntityFramework": "6.4.4",
           "Lib.Data": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "3.1.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.8",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -1466,6 +1465,7 @@
       },
       "Lib.Data/1.0.0": {
         "dependencies": {
+          "EntityFramework": "6.4.4",
           "Microsoft.EntityFrameworkCore": "3.1.8"
         },
         "runtime": {

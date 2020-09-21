@@ -1,8 +1,9 @@
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\bin\Debug\netstandard2.0\Lib.Core.deps.json
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\bin\Debug\netstandard2.0\Lib.Core.dll
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\bin\Debug\netstandard2.0\Lib.Core.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.csprojAssemblyReference.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.csproj.CoreCompileInputs.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.AssemblyInfoInputs.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.AssemblyInfo.cs
-D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\bin\Debug\netstandard2.0\Lib.Core.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.dll
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Core\obj\Debug\netstandard2.0\Lib.Core.pdb

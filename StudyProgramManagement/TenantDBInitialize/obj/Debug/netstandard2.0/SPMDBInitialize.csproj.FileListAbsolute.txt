@@ -1,5 +1,9 @@
 D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\bin\Debug\netstandard2.0\SPMDBInitialize.deps.json
 D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\bin\Debug\netstandard2.0\SPMDBInitialize.dll
+D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\bin\Debug\netstandard2.0\SPMDBInitialize.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\obj\Debug\netstandard2.0\SPMDBInitialize.csprojAssemblyReference.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\obj\Debug\netstandard2.0\SPMDBInitialize.csproj.CoreCompileInputs.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\obj\Debug\netstandard2.0\SPMDBInitialize.AssemblyInfoInputs.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\obj\Debug\netstandard2.0\SPMDBInitialize.AssemblyInfo.cs
+D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\obj\Debug\netstandard2.0\SPMDBInitialize.dll
+D:\Project\StudyProgramManagement\StudyProgramManagement\TenantDBInitialize\obj\Debug\netstandard2.0\SPMDBInitialize.pdb
