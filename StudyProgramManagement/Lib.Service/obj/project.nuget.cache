@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eydGKmP2Oy/yWbsOD9j8eZokg09gQ7/OXH5x9apF+pEWEQfezxKqTn4KWSullrkFO8sSQdOwK8wtrmypBBiJLg==",
+  "dgSpecHash": "kE/wmK+OvNGlh1IhshaM/vmmSOwbmT6kBCoX8B9JzIesOLaYGO4R1h9Ab3/iHj98lvyTE9hxpUVALjb9GaWDAw==",
   "success": true,
-  "projectFilePath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Service\\Lib.Service.csproj",
+  "projectFilePath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Service\\Lib.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Laptop88\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Laptop88\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\longd\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\longd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\longd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
