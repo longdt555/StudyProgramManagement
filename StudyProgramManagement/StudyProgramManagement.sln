@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Service", "Lib.Service\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Data", "Lib.Data\Lib.Data.csproj", "{2C96A994-6ACF-4612-AB81-99CD3CE75F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantDBInitialize", "TenantDBInitialize\TenantDBInitialize.csproj", "{38479D64-D35B-4F10-9117-8A3643EE640C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPMDBInitialize", "TenantDBInitialize\SPMDBInitialize.csproj", "{38479D64-D35B-4F10-9117-8A3643EE640C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
