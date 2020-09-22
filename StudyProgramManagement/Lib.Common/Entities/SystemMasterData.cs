@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lib.Common.Entities
 {
-    class SystemMasterData
+    public class SystemMasterData
     {
         public string NameVI { get; set; }
         public string NameEN { get; set; }

@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Lib.Common.Entities
 {
-    class OutlineDetailCurriculum
+   public class OutlineDetailCurriculum
     {
+        public int OutlineDetailId { get; set; }
+        public int CurriculumId { get; set; }
     }
 }

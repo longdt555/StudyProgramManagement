@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Lib.Common.Entities
 {
-    class SubjectOutlintDetail
+    public class SubjectOutlintDetail
     {
+        public int SubjectId { get; set; }
+        public int OutlineDetailId { get; set; }
     }
 }
