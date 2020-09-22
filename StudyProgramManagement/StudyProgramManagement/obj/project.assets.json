@@ -6098,8 +6098,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj": {
-              "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj"
+            "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj": {
+              "projectPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj"
             }
           }
         }
