@@ -9,9 +9,12 @@ namespace Lib.Common
     }
     public static class Role
     {
-        public static int User = 1;
-        public static int Teacher = 2;
-        public static int Administrator = 3;
+        public static int UserNum = 1;
+        public static string User = "USER";
+        public static int TeacherNum = 2;
+        public static string Teacher = "TEACHER";
+        public static int AdminNum = 3;
+        public static string Admin = "ADMIN";
     }
     public static class MasterData
     {

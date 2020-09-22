@@ -54,11 +54,7 @@ D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\Lib.Data.dll
-D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\Lib.Data.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.csprojAssemblyReference.cache
-D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.csproj.CoreCompileInputs.cache
-D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.MvcApplicationPartsAssemblyInfo.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.RazorAssemblyInfo.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.RazorAssemblyInfo.cs
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.AssemblyInfoInputs.cache
@@ -82,3 +78,6 @@ D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.dll
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.genruntimeconfig.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.csproj.CoreCompileInputs.cache
+D:\Project\StudyProgramManagement\StudyProgramManagement\StudyProgramManagement\obj\Debug\netcoreapp3.1\StudyProgramManagement.MvcApplicationPartsAssemblyInfo.cache

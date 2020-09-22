@@ -4,14 +4,89 @@
     "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj": {}
   },
   "projects": {
-    "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj": {
+    "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj",
-        "projectName": "Lib.Data",
-        "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj",
+        "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
+        "projectName": "Lib.Common",
+        "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
         "packagesPath": "C:\\Users\\longd\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\obj\\",
+        "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\longd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
+                "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj",
+        "projectName": "Lib.Core",
+        "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj",
+        "packagesPath": "C:\\Users\\longd\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -46,7 +121,7 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.Extensions.FileProviders.Physical": {
               "target": "Package",
               "version": "[3.1.8, )"
             },
@@ -98,8 +173,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj": {
-                "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Data\\Lib.Data.csproj"
+              "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {
+                "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj"
               }
             }
           }
@@ -118,6 +193,12 @@
               "version": "[6.4.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.8, )"
             }

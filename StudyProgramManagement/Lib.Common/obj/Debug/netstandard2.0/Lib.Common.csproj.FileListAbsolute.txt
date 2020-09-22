@@ -4,7 +4,6 @@ D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\bin\Debug\ne
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\bin\Debug\netstandard2.0\Lib.Core.dll
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\bin\Debug\netstandard2.0\Lib.Core.pdb
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\obj\Debug\netstandard2.0\Lib.Common.csprojAssemblyReference.cache
-D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\obj\Debug\netstandard2.0\Lib.Common.csproj.CoreCompileInputs.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\obj\Debug\netstandard2.0\Lib.Common.AssemblyInfoInputs.cache
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\obj\Debug\netstandard2.0\Lib.Common.AssemblyInfo.cs
 D:\Project\StudyProgramManagement\StudyProgramManagement\Lib.Common\obj\Debug\netstandard2.0\Lib.Common.csproj.CopyComplete
