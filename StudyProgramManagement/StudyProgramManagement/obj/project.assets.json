@@ -5957,25 +5957,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\longd\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Laptop88\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
+      "projectUniqueName": "D:\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
       "projectName": "StudyProgramManagement",
-      "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
-      "packagesPath": "C:\\Users\\longd\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\obj\\",
+      "projectPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement.csproj",
+      "packagesPath": "C:\\Users\\Laptop88\\.nuget\\packages\\",
+      "outputPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\StudyProgramManagement\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\longd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Laptop88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6035,7 +6030,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

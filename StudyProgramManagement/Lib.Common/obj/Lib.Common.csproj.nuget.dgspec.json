@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {}
+    "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {}
   },
   "projects": {
-    "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {
+    "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
+        "projectUniqueName": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
         "projectName": "Lib.Common",
-        "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
-        "packagesPath": "C:\\Users\\longd\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\obj\\",
+        "projectPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj",
+        "packagesPath": "C:\\Users\\Laptop88\\.nuget\\packages\\",
+        "outputPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\longd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Laptop88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -31,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
-                "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj"
+              "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
+                "projectPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj"
               }
             }
           }
@@ -75,26 +71,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
+    "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj",
+        "projectUniqueName": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj",
         "projectName": "Lib.Core",
-        "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj",
-        "packagesPath": "C:\\Users\\longd\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\obj\\",
+        "projectPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\Lib.Core.csproj",
+        "packagesPath": "C:\\Users\\Laptop88\\.nuget\\packages\\",
+        "outputPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\longd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Laptop88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -142,7 +134,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
