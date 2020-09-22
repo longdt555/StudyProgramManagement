@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Lib.Common;
 
-namespace StudyProgramManagement.Helpers
+namespace SPM.Helpers
 {
     public static class FileHandling
     {

@@ -12,7 +12,8 @@ namespace SPM.DTO
         [Required]
         public string DisplayName { get; set; }
         [Required]
-        public string Password { get; set; }
+        public byte[] PasswordHash { get; set; }
+        public byte[] PasswordSalt { get; set; }
         public int LanguageId { get; set; }
         public int StatusId { get; set; }
         public string Email { get; set; }

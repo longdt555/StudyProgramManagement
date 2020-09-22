@@ -5982,8 +5982,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {
-              "projectPath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj"
+            "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj": {
+              "projectPath": "D:\\StudyProgramManagement\\StudyProgramManagement\\Lib.Common\\Lib.Common.csproj"
             }
           }
         }
