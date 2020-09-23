@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lib.Common.Entities
+namespace Lib.Common
 {
     public class UserRole : BaseCompact
     {

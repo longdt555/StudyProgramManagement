@@ -1,4 +1,4 @@
-﻿using Lib.Common.Entities;
+﻿using Lib.Common;
 using System;
 using System.Collections.Generic;
 using System.Text;
