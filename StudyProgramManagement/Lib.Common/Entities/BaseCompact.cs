@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lib.Common.Entities
 {
-    class BaseCompact
+   public class BaseCompact
     {
         public int Id { get; set; }
         public bool IsDeleted { get; set; }

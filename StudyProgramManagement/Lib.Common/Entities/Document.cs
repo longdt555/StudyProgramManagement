@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lib.Common.Entities
 {
-    class Document
+   public class Document : BaseCompact
     {
         public string NameVI { get; set; }
         public string NameEN { get; set; }

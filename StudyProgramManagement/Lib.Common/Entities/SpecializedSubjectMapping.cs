@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lib.Common.Entities
 {
-    class SpecializedSubjectMapping
+   public class SpecializedSubjectMapping : BaseCompact
     {
         public int SpecializedId { get; set; }
         public int SubjectId { get; set; }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lib.Common.Entities
 {
-    class Base
+   public class BaseEntity
     {
         public int Id { get; set; }
         public int CreatedBy { get; set; }
