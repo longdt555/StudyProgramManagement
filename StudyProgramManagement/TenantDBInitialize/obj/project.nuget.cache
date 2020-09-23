@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TQw4nJbQgk4bctnq6Iap7yk07TezGLROsq3FgxA3T10N2HSx+BHa2mwqu42oOrpO28VXhWNnO0EjImRpwqPb5w==",
+  "dgSpecHash": "t1FEsmAuwYrP3qqq0ENLWG5TWuAsaZ4PhrZN0mqzipkf+BlGy9XCBS4dbYtI0FNaIs86U4sXjnyVYjXmVusZMA==",
   "success": true,
-  "projectFilePath": "D:\\StudyProgramManagement\\StudyProgramManagement\\TenantDBInitialize\\SPMDBInitialize.csproj",
+  "projectFilePath": "D:\\Project\\StudyProgramManagement\\StudyProgramManagement\\TenantDBInitialize\\SPMDBInitialize.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Laptop88\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
-    "C:\\Users\\Laptop88\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Laptop88\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\longd\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\longd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\longd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
