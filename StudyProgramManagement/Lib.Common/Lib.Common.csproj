@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Global\" />
     <Folder Include="Entities\" />
   </ItemGroup>
 
